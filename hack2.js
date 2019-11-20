@@ -1,2 +1,2 @@
 alert("haha");
-document.getElementsByClassName("ha").click();
+document.getElementByClassName("teg").innerHTML = 123;
